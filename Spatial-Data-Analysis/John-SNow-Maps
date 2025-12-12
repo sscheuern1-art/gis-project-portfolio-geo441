@@ -1,0 +1,158 @@
+{
+  "nbformat": 4,
+  "nbformat_minor": 0,
+  "metadata": {
+    "colab": {
+      "provenance": [],
+      "include_colab_link": true
+    },
+    "kernelspec": {
+      "name": "python3",
+      "display_name": "Python 3"
+    },
+    "language_info": {
+      "name": "python"
+    }
+  },
+  "cells": [
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "view-in-github",
+        "colab_type": "text"
+      },
+      "source": [
+        "<a href=\"https://colab.research.google.com/github/sscheuern1-art/gis-project-portfolio-geo441/blob/main/Spatial-Data-Analysis/John-SNow-Maps\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>"
+      ]
+    },
+    {
+      "cell_type": "markdown",
+      "source": [
+        "# **Vector Data / Spatial Analysis**\n"
+      ],
+      "metadata": {
+        "id": "C0ymCPR5aSHN"
+      }
+    },
+    {
+      "cell_type": "markdown",
+      "source": [
+        "Created by Sarah Scheuern\n",
+        "\n",
+        "11/04/2025"
+      ],
+      "metadata": {
+        "id": "Pt_OREXFPvkr"
+      }
+    },
+    {
+      "cell_type": "markdown",
+      "source": [
+        "## **Part 1: John Snow Cholera Maps**\n",
+        "\n",
+        "---"
+      ],
+      "metadata": {
+        "id": "WVs4J1jQbESU"
+      }
+    },
+    {
+      "cell_type": "markdown",
+      "source": [
+        "### **1a: Water Pump Buffer Map**\n",
+        "\n",
+        "\n"
+      ],
+      "metadata": {
+        "id": "2O2FNPD8qrTw"
+      }
+    },
+    {
+      "cell_type": "markdown",
+      "source": [
+        "Below is a map of cholera deaths inside a 100m buffer of water pumps in the Soho District of London, 1854.\n",
+        "\n",
+        "\n",
+        "\n",
+        "<mark>Insert the map below:</mark>\n",
+        "\n",
+        "[Cholera Map](https://drive.google.com/file/d/1cG36_A4AHnFC9QvtNB_GZEjfgW67pOwf/view?usp=sharing)\n",
+        "\n",
+        "![Choloera Map](https://drive.google.com/uc?export=view&id=1cG36_A4AHnFC9QvtNB_GZEjfgW67pOwf)\n"
+      ],
+      "metadata": {
+        "id": "wkJqun7umRRk"
+      }
+    },
+    {
+      "cell_type": "markdown",
+      "source": [
+        "### **1b: Cholera Deaths Heatmap**\n"
+      ],
+      "metadata": {
+        "id": "SzHpaCylTRi8"
+      }
+    },
+    {
+      "cell_type": "markdown",
+      "source": [
+        "Below is a heatmap of cholera deaths in the Soho District of London, 1854.\n",
+        "\n",
+        "\n",
+        "\n",
+        "\n",
+        "<mark>Insert the map below:</mark>\n",
+        "\n",
+        "[Soho Heatmap](https://drive.google.com/file/d/1GM7sD662uHGh6cft_p0W1WtXMPoISw9W/view?usp=sharing)\n",
+        "\n",
+        "![Soho Heatmap](https://drive.google.com/uc?export=view&id=1GM7sD662uHGh6cft_p0W1WtXMPoISw9W)\n"
+      ],
+      "metadata": {
+        "id": "xf3kOlaITTbm"
+      }
+    },
+    {
+      "cell_type": "markdown",
+      "source": [
+        "## **Part 2: Campgrounds**\n",
+        "\n",
+        "---\n",
+        "\n",
+        "\n"
+      ],
+      "metadata": {
+        "id": "_bZJT_SVrM4p"
+      }
+    },
+    {
+      "cell_type": "markdown",
+      "source": [
+        "Below is a map of sites suitable for campgrounds on private land near Hugo Lake, MN.\n",
+        "\n",
+        "\n",
+        "\n",
+        "<mark>Insert the map below:</mark>\n",
+        "\n",
+        "[Available Private Land](https://drive.google.com/file/d/18o3GeZwOZWFvmkVE4rbVaEt-X7l8GO6u/view?usp=sharing)\n",
+        "\n",
+        "![privateland](https://drive.google.com/uc?export=view&id=18o3GeZwOZWFvmkVE4rbVaEt-X7l8GO6u)"
+      ],
+      "metadata": {
+        "id": "PicXJHQnrXJS"
+      }
+    },
+    {
+      "cell_type": "markdown",
+      "source": [
+        "## **Save and share this notebook**\n",
+        "\n",
+        "Make sure that your images are all rendering and then share the notebook so that it is viewable by anyone with the link.\n",
+        "\n",
+        "<mark>**Submit the shareable link to Canvas for the Week 10 Assignment.**</mark>"
+      ],
+      "metadata": {
+        "id": "kkgukjDcXsqC"
+      }
+    }
+  ]
+}
